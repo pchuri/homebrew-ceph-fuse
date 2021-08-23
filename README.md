@@ -9,7 +9,9 @@ brew install ceph-fuse
 ```
 
 **Note**
+
 Please refer to link below, When you encounter a error related to python@2. 
+
 https://github.com/matt-chapman/homebrew-python2
 
 
