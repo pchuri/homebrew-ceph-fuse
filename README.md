@@ -3,7 +3,7 @@
 Ref from https://github.com/mulbc/homebrew-ceph-client. Nautilus support was added.
 
 ```
-brew cask install osxfuse
+brew install cask osxfuse
 brew tap pchuri/homebrew-ceph-fuse
 brew install ceph-fuse
 ```
