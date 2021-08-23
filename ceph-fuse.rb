@@ -16,7 +16,6 @@ class CephFuse < Formula
   depends_on "boost" => :build
   depends_on "llvm" => :build
   depends_on "nss"
-  depends_on "python@2"
   depends_on "yasm"
 
   patch :DATA
