@@ -3,6 +3,7 @@
 Ref from https://github.com/mulbc/homebrew-ceph-client. Nautilus support was added.
 
 ```
+brew install snappy ccache cmake pkg-config
 brew install cask osxfuse
 brew tap pchuri/homebrew-ceph-fuse
 brew install openssl@1.1
