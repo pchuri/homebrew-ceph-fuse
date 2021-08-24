@@ -5,6 +5,7 @@ Ref from https://github.com/mulbc/homebrew-ceph-client. Nautilus support was add
 ```
 brew install cask osxfuse
 brew tap pchuri/homebrew-ceph-fuse
+brew install openssl@1.1
 brew install ceph-fuse
 ```
 
