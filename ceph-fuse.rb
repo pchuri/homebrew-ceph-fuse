@@ -6,6 +6,7 @@ class CephFuse < Formula
 
   bottle do
     root_url "https://github.com/pchuri/homebrew-ceph-fuse/releases/tag/nautilus-14.2.5"
+    sha256 cellar: :any, catalina: "2e1856c6e2885d5d5985028f879f29896848da38aafc84ed2076904d6f5bfb86"
   end
 
   depends_on "openssl"
